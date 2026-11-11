@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josephwonder1-sudo.github.io/hostinger-coupon-code/sitemap.xml
